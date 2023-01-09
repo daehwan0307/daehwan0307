@@ -1,9 +1,3 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=435&lines=Hello" alt="Typing SVG" /></a> </br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=435&lines=I'm+Daehwan+Jung" alt="Typing SVG" /></a>
-   
- 
-</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehwan0307&show_icons=true&theme=radical)
 
