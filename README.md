@@ -35,7 +35,3 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daehwan0307&layout=compact"><img src="https://github-readme-stats.vercel.app/api?username=daehwan0307&show_icons=true">
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghks0307)](https://solved.ac/daehwan0307)
-</div>
