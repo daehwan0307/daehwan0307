@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Daehwan,Jung&fontSize=50" />	
 </div>
 <div align=center>
-		 백엔드 개발자가 되기위해 노력중입니다
+		 백엔드 개발자가 되기위해 노력중입니다 
 	</div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -20,6 +20,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	
 </div>
 <br>
 <div align=center>
